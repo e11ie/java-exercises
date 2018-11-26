@@ -12,9 +12,6 @@ public class CountingCharacters {
                 "volutpat eget massa. Donec nec velit non ligula efficitur luctus.";
         char[] charactersInString = sampleString.toCharArray();
         HashMap<Character, Integer> countOfChars = new HashMap<>();
-//        Scanner in = new Scanner(System.in);
-
-//        System.out.println("");
 
         /*
          * loop through the char array, and
